@@ -1,0 +1,24 @@
+.navbar {
+        background-color: #000000;
+        }
+
+.col-2,
+.col-md-6,
+.col-sm-12,
+.col-lg-4,
+.col-xl-3 {
+        border: rgb(22, 40, 53) 0px solid;
+        }
+.card {
+    background-color: rgba(0, 0, 0, 0.781);
+}
+.col-6,
+.col-md{
+    border-color: #478bbb;
+    border-radius: .1;
+}
+
+.accordion{
+    background-color: #024a7e;
+    color: white;
+}
